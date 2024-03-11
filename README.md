@@ -1,19 +1,24 @@
 # IBM_HR_Analytics_Dashboard_Tableau_Project
 
 # Overview of IBM HR Statistics
-![Screenshot (848)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/dd7d3582-1512-44b0-ae32-e32f01765a48)
+![Screenshot (848)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/8dedbbb7-d012-4499-bfed-71c579d09d5f)
+
 
 # Age and Inexperience
-![Screenshot (849)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/e3206199-0365-4a7b-b01b-908db857d08d)
+![Screenshot (849)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/138da04d-fef7-456f-b650-0773941f566a)
+
 
 # Monetary and Stock Incentives
-![Screenshot (850)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/9892dc9b-a3f2-43e9-aac6-3008a97d53fe)
+![Screenshot (850)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/eef6199a-c44c-4532-bae7-1662fb117cbb)
+
 
 # Work Related Factors
-![Screenshot (851)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/80598b36-42ce-4dd5-a823-3ff77b007c4f)
+![Screenshot (851)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/8bde2d98-f696-4668-bb61-857f9a80f239)
+
 
 # Issues within Sales Department
-![Screenshot (852)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/a8b02dae-4251-44b2-9cea-00759c6626d0)
+![Screenshot (852)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/d8f16d22-dbfb-4e47-b058-0460a99867d8)
+
 
 
 
