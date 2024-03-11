@@ -1,8 +1,7 @@
 # IBM HR Analytics Dashboard Tableau Project
 This is a comprehensive data visualization project using IBM HR data and focuses on key metrics within the HR domain. This project entails the creation of four essential metrics impacting attrition: age & experience level, monetary & stock incentives, work-related factors, and issues within the sales department. Leveraging Tableau, this dashboard provides actionable insights to optimize HR strategies and improve organizational performance.
 
-
-# Overview of IBM HR Statistics
+**Overview of IBM HR Statistics**
 ![Screenshot (848)](https://github.com/shasmitaa/IBM_HR_Analytics_Dashboard_Tableau_Project/assets/148513743/8dedbbb7-d012-4499-bfed-71c579d09d5f)
 
 
